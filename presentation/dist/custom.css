@@ -34,3 +34,7 @@
 .strike-out{
     text-decoration: line-through;
 }
+
+thead {
+    font-weight: bold;
+}
