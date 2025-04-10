@@ -30,3 +30,7 @@
 .underscore {
     text-decoration: underline;
 }
+
+.strike-out{
+    text-decoration: line-through;
+}
